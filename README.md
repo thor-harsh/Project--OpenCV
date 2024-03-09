@@ -2,11 +2,11 @@
 
 <table>
   
-**In this project we will be using OpenCV to do the following stuffs:<br></br>
+**In this project we will be using OpenCV to do the following stuffs:**<br></br>
 a)access camera in opencv <br></br>
 b)read a video in opencv <br></br>
 c)write a video in opencv <br></br>
-d)apply filter in webcame video for canny, blur and feature detection.** <br></br>
+d)apply filter in webcame video for canny, blur and feature detection. <br></br>
 
 
 **Before jumping to the code lets understand Computer Vision and OpenCV First**...<br></br>
